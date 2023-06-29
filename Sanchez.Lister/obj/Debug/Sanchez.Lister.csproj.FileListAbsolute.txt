@@ -1,0 +1,18 @@
+C:\Users\Levente\Desktop\Source\Sanchez.Lister\bin\Debug\Sanchez.Lister.exe
+C:\Users\Levente\Desktop\Source\Sanchez.Lister\bin\Debug\Sanchez.Lister.pdb
+C:\Users\Levente\Desktop\Source\Sanchez.Lister\obj\Debug\Sanchez.Lister.csproj.AssemblyReference.cache
+C:\Users\Levente\Desktop\Source\Sanchez.Lister\obj\Debug\Sanchez.Lister.lForm.resources
+C:\Users\Levente\Desktop\Source\Sanchez.Lister\obj\Debug\Sanchez.Lister.Properties.Resources.resources
+C:\Users\Levente\Desktop\Source\Sanchez.Lister\obj\Debug\Sanchez.Lister.csproj.GenerateResource.cache
+C:\Users\Levente\Desktop\Source\Sanchez.Lister\obj\Debug\Sanchez.Lister.csproj.CoreCompileInputs.cache
+C:\Users\Levente\Desktop\Source\Sanchez.Lister\obj\Debug\Sanchez.Lister.exe
+C:\Users\Levente\Desktop\Source\Sanchez.Lister\obj\Debug\Sanchez.Lister.pdb
+C:\Users\Спальная Т и П\Documents\Source_with_default_skin\Sanchez.Lister\bin\Debug\Sanchez.Lister.exe
+C:\Users\Спальная Т и П\Documents\Source_with_default_skin\Sanchez.Lister\bin\Debug\Sanchez.Lister.pdb
+C:\Users\Спальная Т и П\Documents\Source_with_default_skin\Sanchez.Lister\obj\Debug\Sanchez.Lister.csproj.AssemblyReference.cache
+C:\Users\Спальная Т и П\Documents\Source_with_default_skin\Sanchez.Lister\obj\Debug\Sanchez.Lister.lForm.resources
+C:\Users\Спальная Т и П\Documents\Source_with_default_skin\Sanchez.Lister\obj\Debug\Sanchez.Lister.Properties.Resources.resources
+C:\Users\Спальная Т и П\Documents\Source_with_default_skin\Sanchez.Lister\obj\Debug\Sanchez.Lister.csproj.GenerateResource.cache
+C:\Users\Спальная Т и П\Documents\Source_with_default_skin\Sanchez.Lister\obj\Debug\Sanchez.Lister.csproj.CoreCompileInputs.cache
+C:\Users\Спальная Т и П\Documents\Source_with_default_skin\Sanchez.Lister\obj\Debug\Sanchez.Lister.exe
+C:\Users\Спальная Т и П\Documents\Source_with_default_skin\Sanchez.Lister\obj\Debug\Sanchez.Lister.pdb

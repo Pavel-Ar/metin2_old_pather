@@ -1,0 +1,18 @@
+C:\Users\Levente\Desktop\Source\Sanchez.Patcher\bin\Debug\Sanchez.Patcher.exe
+C:\Users\Levente\Desktop\Source\Sanchez.Patcher\bin\Debug\Sanchez.Patcher.pdb
+C:\Users\Levente\Desktop\Source\Sanchez.Patcher\obj\Debug\Sanchez.Patcher.csproj.AssemblyReference.cache
+C:\Users\Levente\Desktop\Source\Sanchez.Patcher\obj\Debug\Sanchez.Patcher.pForm.resources
+C:\Users\Levente\Desktop\Source\Sanchez.Patcher\obj\Debug\Sanchez.Patcher.Properties.Resources.resources
+C:\Users\Levente\Desktop\Source\Sanchez.Patcher\obj\Debug\Sanchez.Patcher.csproj.GenerateResource.cache
+C:\Users\Levente\Desktop\Source\Sanchez.Patcher\obj\Debug\Sanchez.Patcher.csproj.CoreCompileInputs.cache
+C:\Users\Levente\Desktop\Source\Sanchez.Patcher\obj\Debug\Sanchez.Patcher.exe
+C:\Users\Levente\Desktop\Source\Sanchez.Patcher\obj\Debug\Sanchez.Patcher.pdb
+C:\Users\Спальная Т и П\Documents\Source_with_default_skin\Sanchez.Patcher\bin\Debug\Sanchez.Patcher.exe
+C:\Users\Спальная Т и П\Documents\Source_with_default_skin\Sanchez.Patcher\bin\Debug\Sanchez.Patcher.pdb
+C:\Users\Спальная Т и П\Documents\Source_with_default_skin\Sanchez.Patcher\obj\Debug\Sanchez.Patcher.pForm.resources
+C:\Users\Спальная Т и П\Documents\Source_with_default_skin\Sanchez.Patcher\obj\Debug\Sanchez.Patcher.Properties.Resources.resources
+C:\Users\Спальная Т и П\Documents\Source_with_default_skin\Sanchez.Patcher\obj\Debug\Sanchez.Patcher.csproj.GenerateResource.cache
+C:\Users\Спальная Т и П\Documents\Source_with_default_skin\Sanchez.Patcher\obj\Debug\Sanchez.Patcher.csproj.CoreCompileInputs.cache
+C:\Users\Спальная Т и П\Documents\Source_with_default_skin\Sanchez.Patcher\obj\Debug\Sanchez.Patcher.exe
+C:\Users\Спальная Т и П\Documents\Source_with_default_skin\Sanchez.Patcher\obj\Debug\Sanchez.Patcher.pdb
+C:\Users\Спальная Т и П\Documents\Source_with_default_skin\Sanchez.Patcher\obj\Debug\Sanchez.Patcher.csproj.AssemblyReference.cache
